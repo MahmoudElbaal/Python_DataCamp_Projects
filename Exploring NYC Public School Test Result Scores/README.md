@@ -1,14 +1,10 @@
-# Customer Segmentation using K-Means
+![schoolbus](https://github.com/user-attachments/assets/6f9451ba-bce6-4b33-9dad-61164adee20a)
 
-This project applies **K-Means Clustering** to segment mall customers into distinct groups based on their age, income, and spending score. The goal is to identify customer types for better targeting and business insights.
 
-## Objectives
-- Perform EDA and data preprocessing
-- Apply K-Means clustering
-- Visualize and interpret the clusters
+Every year, American high school students take SATs, which are standardized tests intended to measure literacy, numeracy, and writing skills. There are three sections - reading, math, and writing, each with a maximum score of 800 points. These tests are extremely important for students and colleges, as they play a pivotal role in the admissions process.
 
-## Tools Used
-Jupyter Notebook, pandas, matplotlib, seaborn, scikit-learn
+Analyzing the performance of schools is important for a variety of stakeholders, including policy and education professionals, researchers, government, and even parents considering which school their children should attend.
 
-## Output
-The dataset was clustered into meaningful customer segments with clear visualizations of the results.
+You have been provided with a dataset called schools.csv, which is previewed below.
+
+You have been tasked with answering three key questions about New York City (NYC) public school SAT performance.
