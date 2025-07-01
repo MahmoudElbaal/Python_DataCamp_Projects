@@ -1,4 +1,4 @@
-![datacamp-seeklogo](https://github.com/user-attachments/assets/c6dbcbdf-7fec-475e-bee0-ae0644519842)
+![idT7jV3n4Y_1751408075361](https://github.com/user-attachments/assets/df4f368f-3928-461f-b29e-17d47972d49b)
 
 
 # Python Projects – Data Analysis Using Python (DataCamp)
