@@ -1,9 +1,10 @@
-![redpopcorn](https://github.com/user-attachments/assets/63626324-8f7e-4788-ac85-0427ea9f3e2a)
+![Nobel_Prize](https://github.com/user-attachments/assets/a42dac24-a5e5-4153-b9b3-a1cdb893c530)
 
-Netflix! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
 
-Given the large number of movies and series available on the platform, it is a perfect opportunity to flex your exploratory data analysis skills and dive into the entertainment industry.
+The Nobel Prize has been among the most prestigious international awards since 1901. Each year, awards are bestowed in chemistry, literature, physics, physiology or medicine, economics, and peace. In addition to the honor, prestige, and substantial prize money, the recipient also gets a gold medal with an image of Alfred Nobel (1833 - 1896), who established the prize.
 
-You work for a production company that specializes in nostalgic styles. You want to do some research on movies released in the 1990's. You'll delve into Netflix data and perform exploratory data analysis to better understand this awesome movie decade!
 
-You have been supplied with the dataset netflix_data.csv, along with the following table detailing the column names and descriptions. Feel free to experiment further after submitting!
+
+The Nobel Foundation has made a dataset available of all prize winners from the outset of the awards from 1901 to 2023. The dataset used in this project is from the Nobel Prize API and is available in the nobel.csv file in the data folder.
+
+In this project, you'll get a chance to explore and answer several questions related to this prizewinning data. And we encourage you then to explore further questions that you're interested in!
