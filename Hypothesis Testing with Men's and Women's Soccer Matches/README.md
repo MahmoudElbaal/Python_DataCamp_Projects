@@ -1,5 +1,4 @@
-![A soccer pitch for an international match.](soccer-pitch.jpg)
-
+![soccer-pitch](https://github.com/user-attachments/assets/67c92db7-58ba-48c2-815c-e92a5092037a)
 
 You're working as a sports journalist at a major online sports media company, specializing in soccer analysis and reporting. You've been watching both men's and women's international soccer matches for a number of years, and your gut instinct tells you that more goals are scored in women's international football matches than men's. This would make an interesting investigative article that your subscribers are bound to love, but you'll need to perform a valid statistical hypothesis test to be sure!
 
