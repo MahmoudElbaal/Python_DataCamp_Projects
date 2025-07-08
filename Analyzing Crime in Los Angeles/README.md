@@ -1,10 +1,13 @@
-![Nobel_Prize](https://github.com/user-attachments/assets/a42dac24-a5e5-4153-b9b3-a1cdb893c530)
+![la_skyline](https://github.com/user-attachments/assets/2fa29a70-9fa4-4515-a814-629cc8aecf24)
 
 
-The Nobel Prize has been among the most prestigious international awards since 1901. Each year, awards are bestowed in chemistry, literature, physics, physiology or medicine, economics, and peace. In addition to the honor, prestige, and substantial prize money, the recipient also gets a gold medal with an image of Alfred Nobel (1833 - 1896), who established the prize.
+Los Angeles, California 😎. The City of Angels. Tinseltown. The Entertainment Capital of the World!
 
+Known for its warm weather, palm trees, sprawling coastline, and Hollywood, along with producing some of the most iconic films and songs. However, as with any highly populated city, it isn't always glamorous and there can be a large volume of crime. That's where you can help!
 
+You have been asked to support the Los Angeles Police Department (LAPD) by analyzing crime data to identify patterns in criminal behavior. They plan to use your insights to allocate resources effectively to tackle various crimes in different areas.
 
-The Nobel Foundation has made a dataset available of all prize winners from the outset of the awards from 1901 to 2023. The dataset used in this project is from the Nobel Prize API and is available in the nobel.csv file in the data folder.
+The Data
+They have provided you with a single dataset to use. A summary and preview are provided below.
 
-In this project, you'll get a chance to explore and answer several questions related to this prizewinning data. And we encourage you then to explore further questions that you're interested in!
+It is a modified version of the original data, which is publicly available from Los Angeles Open Data.
