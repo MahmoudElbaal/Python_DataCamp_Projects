@@ -1,13 +1,17 @@
-![la_skyline](https://github.com/user-attachments/assets/2fa29a70-9fa4-4515-a814-629cc8aecf24)
+![A soccer pitch for an international match.](soccer-pitch.jpg)
 
+You're working as a sports journalist at a major online sports media company, specializing in soccer analysis and reporting. You've been watching both men's and women's international soccer matches for a number of years, and your gut instinct tells you that more goals are scored in women's international football matches than men's. This would make an interesting investigative article that your subscribers are bound to love, but you'll need to perform a valid statistical hypothesis test to be sure!
 
-Los Angeles, California 😎. The City of Angels. Tinseltown. The Entertainment Capital of the World!
+While scoping this project, you acknowledge that the sport has changed a lot over the years, and performances likely vary a lot depending on the tournament, so you decide to limit the data used in the analysis to only official `FIFA World Cup` matches (not including qualifiers) since `2002-01-01`.
 
-Known for its warm weather, palm trees, sprawling coastline, and Hollywood, along with producing some of the most iconic films and songs. However, as with any highly populated city, it isn't always glamorous and there can be a large volume of crime. That's where you can help!
+You create two datasets containing the results of every official men's and women's international football match since the 19th century, which you scraped from a reliable online source. This data is stored in two CSV files: `women_results.csv` and `men_results.csv`.
 
-You have been asked to support the Los Angeles Police Department (LAPD) by analyzing crime data to identify patterns in criminal behavior. They plan to use your insights to allocate resources effectively to tackle various crimes in different areas.
+The question you are trying to determine the answer to is:
 
-The Data
-They have provided you with a single dataset to use. A summary and preview are provided below.
+> Are more goals scored in women's international soccer matches than men's?
 
-It is a modified version of the original data, which is publicly available from Los Angeles Open Data.
+You assume a **10% significance level**, and use the following null and alternative hypotheses:
+
+$H_0$ : The mean number of goals scored in women's international soccer matches is the same as men's.
+
+$H_A$ : The mean number of goals scored in women's international soccer matches is greater than men's.
